@@ -5,16 +5,16 @@ prev: docs/Bhagavath Gita/Talk1
 next: docs/Bhagavath Gita/Talk2
 ---
 
-![landscape](docs/Bhagavath Gita/img/Part2.png)
+![landscape](/docs/Bhagavath Gita/img/Part2.png)
 
 ## Youtube
 
-{{< youtube YyW9xkhDEL8PDGM1 >}}
+{{< youtube TO6VadFNbkB-WnM2 >}}
 
 
 ## Quick pdfs
 
-{{< pdf "docs/Bhagavath Gita/pdf/The_Inner_War_Winning_Kurukshetra Part2.pdf" >}}
+{{< pdf "/docs/Bhagavath Gita/pdf/The_Inner_War_Winning_Kurukshetra Part2.pdf" >}}
 
  
 ### Introduction and Context Review

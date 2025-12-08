@@ -5,16 +5,16 @@ prev: docs/Bhagavath Gita/Talk2
 next: docs/Bhagavath Gita/Talk4
 ---
 
-![landscape](docs/Bhagavath Gita/img/Part3.png)
+![landscape](/docs/Bhagavath Gita/img/Part3.png)
 
 ## Youtube
 
-{{< youtube VHFkXJsJqu25E1pC >}}
+{{< youtube vEx3u1ndAS3f6lpy >}}
 
 
 ## Quick pdfs
 
-{{< pdf "docs/Bhagavath Gita/pdf/Your_Divine_Army- Part3.pdf" >}}
+{{< pdf "/docs/Bhagavath Gita/pdf/Your_Divine_Army- Part3.pdf" >}}
 
 ## Winning the Battle of Life (Kurukshetra Within Me) - Part 3
 

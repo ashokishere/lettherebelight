@@ -7,7 +7,7 @@ next: docs/Bhagavath Gita/Talk5
 
 ## Youtube
 
-{{< youtube XLxFj83yQH5a3siw>}}
+{{< youtube pTyHZEsbvYEnQ-kN >}}
 
 
 ## Quick pdfs

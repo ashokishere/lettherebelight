@@ -5,16 +5,16 @@ prev: docs/Bhagavath Gita/
 next: docs/Bhagavath Gita/Talk2
 ---
 
-![landscape](docs/Bhagavath Gita/img/Part1.png)
+![landscape](/docs/Bhagavath Gita/img/Part1.png)
 
 ## Youtube
 
-{{< youtube roWfpoiJ950DVRbd >}}
+{{< youtube yF7POOlug4wnFd9a >}}
 
 
 ## Quick pdfs
 
-{{< pdf "docs/Bhagavath Gita/pdf/The_Inner_War_Bhagavad_Gita_Revealed_part1.pdf" >}}
+{{< pdf "/docs/Bhagavath Gita/pdf/The_Inner_War_Bhagavad_Gita_Revealed_part1.pdf" >}}
 
 
 ## Introduction and The Unique Interpretation of Gita
