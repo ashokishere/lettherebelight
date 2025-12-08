@@ -9,7 +9,7 @@ next: docs/Bhagavath Gita/Talk2
 
 ## Youtube
 
-{{< youtube yF7POOlug4wnFd9a >}}
+{{< youtube NOOhLX4lYdo >}}
 
 
 ## Quick pdfs
