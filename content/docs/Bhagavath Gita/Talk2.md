@@ -5,7 +5,7 @@ prev: docs/Bhagavath Gita/Talk1
 next: docs/Bhagavath Gita/Talk2
 ---
 
-![landscape](/docs/Bhagavath Gita/img/Part2.png)
+![landscape](Part2.png)
 
 ## Youtube
 
