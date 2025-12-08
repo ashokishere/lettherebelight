@@ -7,20 +7,16 @@ next: docs/Bhagavath Gita/Talk2
 
 ![landscape](Part1.png)
 
-## Youtube
+## Introduction and The Unique Interpretation of Gita
+
+Jai Guru. Love and greetings to each one of you. I'm so happy to join you all in the study of the Bhagavad Gita. Today, we have the first talk in a series of discourses on the wisdom of the Bhagavad Gita. The specific topic for today is, "Winning the Battle of Life: The Kurukshetra Within Me" based on the book "God Talks With Arjuna" the interpretation given by Sri Sri Paramahansa Yoganandaji. As we all know, Bhagavad Gita has been a perennial favourite scripture of many, many saints of various religions down the centuries.
+
+There have been many interpretations of Bhagavad Gita. If so, is there a need for yet another translation, interpretation, "God Talks With Arjuna"? I would say that, yes, there is a need because "God Talks With Arjuna" is not yet another interpretation. It's a very unique interpretation, as we will see during our series of lectures. This is a yogic interpretation. We have two volumes. Volume One and Volume Two running into around 1200 pages. In these two books, Guruji has dealt so much in detail, especially in terms of Yoga.
+
 
 {{< youtube NOOhLX4lYdo >}}
 
 
-## Quick pdfs
-
-{{< pdf "The_Inner_War_Bhagavad_Gita_Revealed_part1.pdf" >}}
-
-
-## Introduction and The Unique Interpretation of Gita
-
-Jai Guru. Love and greetings to each one of you. I'm so happy to join you all in the study of the Bhagavad Gita. Today, we have the first talk in a series of discourses on the wisdom of the Bhagavad Gita. The specific topic for today is, "Winning the Battle of Life: The Kurukshetra Within Me" based on the book "God Talks With Arjuna" the interpretation given by Sri Sri Paramahansa Yoganandaji. As we all know, Bhagavad Gita has been a perennial favourite scripture of many, many saints of various religions down the centuries.
-There have been many interpretations of Bhagavad Gita. If so, is there a need for yet another translation, interpretation, "God Talks With Arjuna"? I would say that, yes, there is a need because "God Talks With Arjuna" is not yet another interpretation. It's a very unique interpretation, as we will see during our series of lectures. This is a yogic interpretation. We have two volumes. Volume One and Volume Two running into around 1200 pages. In these two books, Guruji has dealt so much in detail, especially in terms of Yoga.
 In the words of Guruji, "Yogoda Paramgurus bequeathed the world, along with the long lost Kriya Yoga, a new revelation of the Gita, relevant primarily to the science of Yoga and to 'Kriya Yoga in particular'." The world knows, that it is through Yogoda Guru Parampara, the long lost Kriya Yoga was revived and spread among humanity in this age. But one more thing Guruji is saying that this interpretation of Bhagavad Gita, this is also a unique contribution of Yogoda Gurus to the world. To understand Bhagavad Gita.
 
 ## Context of the Gita and the Inner Kurukshetra
@@ -186,4 +182,17 @@ The lesson is: Release that air of ego in daily life. Your life will be very smo
 Although Pandavas were low in numbers and strength compared to the hundred Kauravas plus powerful allies like Bhishma, Dronacharya, and Karna, they won because they represented the eternal truths. Similarly, a few good habits (like interest to improve, sadhana, and meditate) are adequate, with the help of a Guru, to conquer many negative traits carried for incarnations.
 
 Recalling Guruji’s assurance: "Each person has to fight his own battle of Kurukshetra. It is a war not only worth winning, but in the divine order of the universe and of the eternal relationship between the soul and God, a war that sooner or later must be won."
-It's never a question of whether to win, just a question of when to win. Aum, shanti, shanti, shanti.
+It's never a question of whether to win, just a question of when to win. 
+
+
+Aum, shanti, shanti, shanti.
+
+
+ 
+
+
+
+
+## Quick Recap
+
+{{< pdf "The_Inner_War_Bhagavad_Gita_Revealed_part1.pdf" >}}

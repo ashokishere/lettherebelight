@@ -5,19 +5,15 @@ prev: docs/Bhagavath Gita/Talk3
 next: docs/Bhagavath Gita/Talk5
 ---
 
-## Youtube
-
-{{< youtube BNud4LMtF4Y >}}
-
-
-## Quick pdfs
-
-{{< pdf "path/to/file.pdf" >}}
-
 ## Winning the Battle of Life (Kurukshetra Within Me)
 
 
 love and greetings to each one of you from yoga ashrams. welcome to this discourse which is fourth in a series of talks on the wisdom of bhagavad-gita as interpreted by param suvarnanji in his book God Talks with Arjuna. in the first talk yoga nanji clearly pointed out that we lost our divine kingdom in the game of delusion. to regain that divinity a kurukshetra war is going on within each one of us as our good tendencies and bad tendencies oppose each other. siding with good tendencies would lead us to lasting happiness and eventually self-realization.
+
+ 
+
+{{< youtube BNud4LMtF4Y >}}
+
 
 Let me read guruji's words on this point: "Each person has to fight his own battle of kurukshetra. It is a war not only worth winning but in the divine order of the universe and of the eternal relationship between the soul and God a war that sooner or later must be". that is assurance is giving that this is a war each one of us will win because that is the cosmic design, that is the wish of god, sooner or later, let it be sooner.
 
@@ -154,3 +150,8 @@ These are:
 7. Dronacharya (habit/samskara).
 8. Aswatthama (latent desire/ashaya).
 We must identify them, throw them out, and win.
+
+
+## Quick Recap
+
+{{< pdf "path/to/file.pdf" >}}

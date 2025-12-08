@@ -7,19 +7,16 @@ next: docs/Bhagavath Gita/Talk2
 
 ![landscape](Part2.png)
 
-## Youtube
-
-{{< youtube LOuNn_KPrqc >}}
-
-
-## Quick pdfs
-
-{{< pdf "/docs/Bhagavath Gita/pdf/The_Inner_War_Winning_Kurukshetra Part2.pdf" >}}
 
  
 ### Introduction and Context Review
 
 Greetings! Loving pranams to all of you. I’m so happy to be with you all once again to resume our study of the Bhagavad Gita as interpreted by Paramahansa Yoganandaji in his book, "God Talks With Arjuna.". In the first discourse we had, we could cover only the first sloka of the first chapter. Before we go to the second sloka, I would like to briefly review what we discussed last time in order to pick up the thread of continuity. To understand Bhagavad Gita, we have to understand the context of the Gita.
+
+{{< youtube LOuNn_KPrqc >}}
+
+
+
 
 Pandavas lost their kingdom in the game of dice. Consequently, they had to go into exile—twelve years of aranyavas in forest, followed by one year of agnyaatavas. One year they had to spend in disguise. And they did that. Thirteen years they spent and they came back and demanded their kingdom, which belonged to them morally and legally. But Kauruvas denied them. Having no other option, Pandavas declared a war to reclaim their own rightful kingdom. On the eve of the war – Kurukshetra, Arjuna goes despondent after seeing the people he had to fight. His own people he had to fight. At that time, Bhagavan Krishna gives this advice — Gita.
 
@@ -187,4 +184,11 @@ After reviewing what we said in the last talk, we went to second sloka where Dur
 Third sloka is Pandavas are helped by Dhrishtadyumna as the commander-in-chief. Dhrishtadyumna was born to kill Dronacharya, the habit. So, the bad habits in me are going to be killed. For that, we have to cultivate or generate Dhrishtadyumna — that is calm inner light of intuitive awakening by meditation practices. Then we’ll have the power to conquer whatever bad habits we have. This is for today.
 
 Next time we’ll take up slokas four, five, and six. Pandavas were only five. Eventually they won the battle of Kurukshetra, not by themselves — they needed help of many supporters, many allies. Similarly, my, a few good qualities, like yama-niyama, pranayama, self-control, calmness — alone may not be adequate to win this battle. I also need the help of some supporting qualities like discriminative intelligence. I need devotion. I need vairagya, dispassion. All these qualities also I need in order to win the ultimate battle of delusion. So that’s what we’ll discuss — what are the other good spiritual qualities we have to develop in order to win this Kurukshetra within. That will be topic for the next talk.
-Okay. A few moments of silence and then we leave. Aum. Shanti. Shanti. Shanti. Jai Guru.
+Okay. A few moments of silence and then we leave. Aum. Shanti. Shanti. Shanti. 
+
+Jai Guru.
+
+
+## Quick Recap
+
+{{< pdf "The_Inner_War_Winning_Kurukshetra Part2.pdf" >}}
