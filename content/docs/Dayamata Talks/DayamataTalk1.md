@@ -13,7 +13,13 @@ A Transcription of Sri Daya Mata
 
 Takes a little time. I'm coming. Oh, I’m so high up here! Thank you, my dears. So nice to — I told you last year I’d be here. Well, it’s so wonderful to greet all of you again one year later. Let us just pray for a moment: 
 
-Heavenly Father, Mother, Friend, Beloved God, Jesus Christ, Bhagavan Krishna, Mahavatar Babaji, Lahiri Mahasaya, Swami Sri Yukteswarji, and you, my revered Gurudeva, Paramahansa Yogananda, saints of all religions, we bow to you all. O Divine Mother, mold Thou my life according to Thy will. Bless me that wherever I go, I may spread Thy light, of love, compassion, understanding, forgiveness. Bless us, Lord. We bow to Thee. Aum. Shanti. Shanti. Amen.
+{{< callout type="important" icon="sparkles" >}}
+
+  Heavenly Father, Mother, Friend, Beloved God, Jesus Christ, Bhagavan Krishna, Mahavatar Babaji, Lahiri Mahasaya, Swami Sri Yukteswarji, and you, my revered Gurudeva, Paramahansa Yogananda, saints of all religions, we bow to you all. O Divine Mother, mold Thou my life according to Thy will. Bless me that wherever I go, I may spread Thy light, of love, compassion, understanding, forgiveness. Bless us, Lord. We bow to Thee. Aum. Shanti. Shanti. Amen.
+
+{{< /callout >}}
+
+
 
 Be seated. Well, you all know me pretty well now, and I’m quite relaxed, coming before you. I do want to spend a few moments expressing our deep appreciation to all of you who have come, and attend these. Someone said, I think it was Brother Achalananda said that it was, he was so — what did he say? It was a privilege for you to come and hear me? Well, it is a privilege for me to come and see all of you. And I’m very grateful; I look forward to this every year. Because it’s been the greatest sense of satisfaction to me, to come together with real divine friends. And I think of all of you as those friends — friends in God, friends in Guruji’s teachings. Friendship, and our trust and faith and love in one another.
 
@@ -26,13 +32,21 @@ And, of course, Daya Ma had the privilege in the early years in Encinitas, with 
 
 ### The Living Power of Kriya Yoga
 
-And you, you dear ones, you have proven that statement of Guruji’s. Because all of you here, I am sure, have greatly benefited, been greatly inspired, by that wonderful book which is now in so many, many languages. And this, of course, is the 50th anniversary of the printing of that book. And I am happy to be here for this 50th. I won’t promise anything more than that. So, one devotee said about the “Autobiography,” “It is not a book. It is a living power”. Such effect it has had on seekers of God, and seekers of truth, all over this world, in every nation.
+And you, you dear ones, you have proven that statement of Guruji’s. Because all of you here, I am sure, have greatly benefited, been greatly inspired, by that wonderful book which is now in so many, many languages. And this, of course, is the 50th anniversary of the printing of that book. And I am happy to be here for this 50th. I won’t promise anything more than that. So, one devotee said about the “Autobiography,” 
+{{< callout type="important" icon="sparkles" >}}
+“It is not a book. It is a living power”.
+{{< /callout >}}
+Such effect it has had on seekers of God, and seekers of truth, all over this world, in every nation.
 
 I thought, “What can I say to these dear souls tonight?” You’ve heard many, many talks. And you are about now to go back to your homes. You’ve received the Kriya diksha, which is a very sacred initiation. And I urge you all to practice it faithfully. I remember Guruji’s words to me many years ago: “If you practice nothing but Kriya, you will reach there”. And I believe it. And I have found to my own complete satisfaction that all of those statements, those utterances of truth which Master made throughout those years have come to pass in my own life.
 
 ### Seeking God First: The Common Denominator
 
-Each one of you here have come. Sorry! Okay. They’re great, aren’t they? They know what to do. Each one of you who came here tonight, came, each one of you, with a different need, with a particular need. You know what that need is; you know what brought you here. And if we think of that, then we have here at least 37-odd hundred needs gathered together in this audience. Each one of you knows what that need is. But let me say this to you. I always remembered throughout my life as a young monastic on the path words uttered in the scripture — Christian scripture, “Seek ye the kingdom of God first, and all these things will be added unto you”.
+Each one of you here have come. Sorry! Okay. They’re great, aren’t they? They know what to do. Each one of you who came here tonight, came, each one of you, with a different need, with a particular need. You know what that need is; you know what brought you here. And if we think of that, then we have here at least 37-odd hundred needs gathered together in this audience. Each one of you knows what that need is. But let me say this to you. I always remembered throughout my life as a young monastic on the path words uttered in the scripture — Christian scripture, 
+
+{{< callout icon="sparkles" >}}
+ “Seek ye the kingdom of God first, and all these things will be added unto you”.
+{{< /callout >}}
 
 And my nature is to reduce everything to a common denominator. For me, the common denominator of all life’s needs, all life’s experiences, all life’s desires is one: God alone. And to my own complete satisfaction, it has been a great blessing that I have found that all those needs, all those little desires that I might have had, everything that I might have craved in this world — Ah! I have found, my dears, that fulfillment in God, to my complete satisfaction. And how often when I go to meditate in the evening, because I like to be true to myself: “Is there anything in this universe you want? Is there anything you want?” What can I say? Nothing. There is nothing in this world that I crave. I crave love, I crave friendship. But I’ve found that by giving, it has come back to me a thousand-fold. And I pray in the same way, that seeking God and putting God first will fill your own lives. And you will find that all of those needs that brought you here, will find complete fulfillment in that one Cosmic Beloved: our God.
 
@@ -57,20 +71,42 @@ And I believe Ananda Mata, myself, brother Dick, and some of the others were goi
 
 To come back to the subject: The Gita’s purpose is to teach us how to be in the world and not of it. It is a balanced middle path. Some leave the world and join monasteries and seek God only. Others become so worldly that they don’t even want to think about God. Now the Gita says, “No, there’s a middle path: Learn how to be in the world but not of it”. We have our duties, you have your duties, you’re going back to your homes, you have all your responsibilities. You assume those when you go back to your homes. But on the other side, don’t be enmeshed in the world. How do you avoid that? Carry on your responsibilities, yes. But keep your mind a little bit withdrawn. Now, I don’t mean withdrawn from your husbands or wives and children. I mean don’t become so immersed in all of the things that happen to you. That is not easy. But the way it becomes easy, when you learn to include God in your daily life. He becomes your sustainer. He becomes your support. He becomes the One that upholds you and reminds you that “This is not my world. My world is with You, my God”.
 
-We need to remember that. Gita is a perfect scripture for that kind of understanding. And I would urge you all to follow it, to read it; it’s very deep. I’m still reading the introduction. Well, I’ve read more than that, but — oh, it’s so nice to laugh with all of you. This is what God is all about. When I first came I thought one should be, well, you should be around, very solemn and oh, you know, hold your hands in front of you like this, and keep your head bowed and — not sincere. Master said, “Why are you?” — he turned to my Mother and said, “Is she always like this?” I remember my mother saying, “No, she was always, she was such a happy, cheerful child”. Is that funny? And so, he said to me, “Seeking God,” as his guru said to him, “is the funeral of all sorrow”. And he wrote something to me that said, that I shall always remember, “You should always be cheerful, for that is your nature”. With those thoughts, and he had the power — and you have the same when you read these things — he had the power to go deep into your consciousness and impinge that thought on your mind. And with those words, I knew exactly what I should be doing: Get rid of this shyness. Get rid of this unnatural. Be yourself. Be sincere. Be kind. God expects that of you. Be loving; be just. Try to be understanding and compassionate. Want nothing. Be satisfied with what God gives you. And then you will find that He fills your plate, heaping. Such is His grace.
+We need to remember that. Gita is a perfect scripture for that kind of understanding. And I would urge you all to follow it, to read it; it’s very deep. I’m still reading the introduction. Well, I’ve read more than that, but — oh, it’s so nice to laugh with all of you. This is what God is all about. When I first came I thought one should be, well, you should be around, very solemn and oh, you know, hold your hands in front of you like this, and keep your head bowed and — not sincere. Master said, “Why are you?” — he turned to my Mother and said, “Is she always like this?” I remember my mother saying, “No, she was always, she was such a happy, cheerful child”. Is that funny? And so, he said to me, 
+
+{{< callout type="important" >}} 
+  “Seeking God,” as his guru said to him, “is the funeral of all sorrow”.
+{{< /callout >}}
+
+ And he wrote something to me that said, that I shall always remember, “You should always be cheerful, for that is your nature”. With those thoughts, and he had the power — and you have the same when you read these things — he had the power to go deep into your consciousness and impinge that thought on your mind. And with those words, I knew exactly what I should be doing: Get rid of this shyness. Get rid of this unnatural. Be yourself. Be sincere. Be kind. God expects that of you. Be loving; be just. Try to be understanding and compassionate. Want nothing. Be satisfied with what God gives you. And then you will find that He fills your plate, heaping. Such is His grace.
 
 ### Guidelines for Daily Living
 
 You know something? Many years ago, and some of these may help you, because they’re very simple, simple thoughts. How to overcome tensions, and fears, and all of these emotions that strike at us. When we were around Master, he insisted that we learn to work calmly. And some of us have the nature of getting things done fast. So I went back to my room and said, "One of the things you have to learn is to think one thought at a time". We have a tendency to rush in and think so many thoughts that we end up being extremely nervous. So I made that one of the points that I would concentrate on. Think one thought at time. Don’t let thoughts crowd in on you, so that you are not able to think clearly at all. And what helps me with that is the Hong-Sau Technique — a powerful technique for developing the art of concentration. And another one we all need to learn: Don’t interrupt while others are talking. Listen. Learn to be a good listener in this world.
 
-And the other one, Guruji often said, "Learn to read good books. Don't read trash. Don't waste your time. Read books that require your concentration, that inspire you, that uplift you. But, of course, read mine first". And I did. And the next one is: Don't eat so fast. You know, these are simple things. Eat your food slowly. "And exercise regularly," said Master. "Strive to keep your weight down". That's an important one. And then he said, "Relax. Don't rush about or get bogged down in little things. Learn to relax more". That's a wonderful thing to do. Let's all sit back and relax. Just relax a little. Yeah sometimes you'd be amazed at how uptight you are. I do that throughout the day; just let go, relax. So you can think more. When you're tensed, you're burning up energy, burning up the nerves. So those are helpful points, aren't they?
+And the other one, Guruji often said, 
+
+{{< callout type="important" >}} 
+"Learn to read good books. Don't read trash. Don't waste your time. Read books that require your concentration, that inspire you, that uplift you. But, of course, read mine first".
+{{< /callout >}}
+
+ And I did. And the next one is: Don't eat so fast. You know, these are simple things. Eat your food slowly. "And exercise regularly," said Master. "Strive to keep your weight down". That's an important one. And then he said, "Relax. Don't rush about or get bogged down in little things. Learn to relax more". That's a wonderful thing to do. Let's all sit back and relax. Just relax a little. Yeah sometimes you'd be amazed at how uptight you are. I do that throughout the day; just let go, relax. So you can think more. When you're tensed, you're burning up energy, burning up the nerves. So those are helpful points, aren't they?
 The next is: Learn to appreciate whatever you do. Sometimes devotees will say, "I have no self-esteem". Why? You're a child of God; He loves you. You're as important to Him as any child who reached Him as a saint. You are His. You have value. You must learn to value yourselves. So learn to appreciate whatever you do.
 
 ## Finding Value and Seclusion
+And the next, Guruji said,
+{{< callout type="important" >}} 
+"Set aside time for seclusion when you can just be alone with God".
+{{< /callout >}}
 
-And the next, Guruji said, "Set aside time for seclusion when you can just be alone with God". Wonderful, wonderful. Find time. It might even be, maybe just in a little corner of your home. It might be out on the grounds. It's nice when you can come for a retreat with us. But have time when you can be alone. Everyone needs, what they say today, their own "space"? I tried to think what that meant. How much space does each person need? Anyway those are the words I hear today. So whatever your space is, take it. Well, these are all Master's ideas.
+Wonderful, wonderful. Find time. It might even be, maybe just in a little corner of your home. It might be out on the grounds. It's nice when you can come for a retreat with us. But have time when you can be alone. Everyone needs, what they say today, their own "space"? I tried to think what that meant. How much space does each person need? Anyway those are the words I hear today. So whatever your space is, take it. Well, these are all Master's ideas.
 
-And the next, and this he said again and again. How often he used to touch us or point here, and he said, "Just keep your mind here all the time. Let your mind always rest here in God". When you practice meditation, when you're doing your Techniques, meditation, — Aum Technique, Hong-Sau — your mind is always — you’re training yourself to gradually just bring your attention to this point. And throughout the day keep your mind there. When you're not doing something let your mind rest here. This is the center of the third eye. This is the center of concentration. It is wonderful to live that way. I’m so grateful, because my mind is always here in this center. It becomes habit after awhile. And when that happens you find you're always focused. You're always centered. You're not scattered. And finally, the last one, which I love: try always to follow in the Master's footsteps. And let his will be done with the work. And those are the principles that we need to live by. Those have been my private guidelines through all these many years, a great blessing.
+And the next, and this he said again and again. How often he used to touch us or point here, and he said, 
+
+{{< callout type="important" >}} 
+"Just keep your mind here all the time. Let your mind always rest here in God". When you practice meditation, when you're doing your Techniques, meditation, — Aum Technique, Hong-Sau — your mind is always — you’re training yourself to gradually just bring your attention to this point.
+{{< /callout >}}
+
+ And throughout the day keep your mind there. When you're not doing something let your mind rest here. This is the center of the third eye. This is the center of concentration. It is wonderful to live that way. I’m so grateful, because my mind is always here in this center. It becomes habit after awhile. And when that happens you find you're always focused. You're always centered. You're not scattered. And finally, the last one, which I love: try always to follow in the Master's footsteps. And let his will be done with the work. And those are the principles that we need to live by. Those have been my private guidelines through all these many years, a great blessing.
 
 ### A Final Call to Love and Self-Realisation
 
@@ -83,10 +119,19 @@ And so, as you go back to your homes, carry these thoughts of Guruji with you. T
 
 So, God bless you all, my dears. Can we meditate a few minutes? Let us all pray together: 
 
-Heavenly Father, Mother, Friend, Beloved God, Jesus Christ, Bhagavan Krishna, Mahavatar Babaji, Lahiri Mahasaya, Swami Sri Yukteswarji, and you, my beloved Gurudeva, Paramahansa Yogananda, saints of all religions, I bow to You all. O Divine Mother, mold Thou my life, according to Thy design, and bless me, that I may never lose sight of Thee. Help me, that I may learn, to carry on my duties faithfully, lovingly, and cheerfully, while at the same time knowing that You are the power behind all my thoughts, behind the throb of my heart, behind this breath of mine. For Thou art my Life, Thou art my Love, Thou art the Ultimate Goal, which all of us, are seeking. Bless us, Lord. We are Thine. May Thy love shine forever, on the altar of my devotion, and may I be able to awaken Thy love in all hearts. Aum. Shanti. Shanti. Amen.
+{{< callout icon="sparkles" >}}
+ Heavenly Father, Mother, Friend, Beloved God, Jesus Christ, Bhagavan Krishna, Mahavatar Babaji, Lahiri Mahasaya, Swami Sri Yukteswarji, and you, my beloved Gurudeva, Paramahansa Yogananda, saints of all religions, I bow to You all. O Divine Mother, mold Thou my life, according to Thy design, and bless me, that I may never lose sight of Thee. 
+ 
+ Help me, that I may learn, to carry on my duties faithfully, lovingly, and cheerfully, while at the same time knowing that You are the power behind all my thoughts, behind the throb of my heart, behind this breath of mine. For Thou art my Life, Thou art my Love, Thou art the Ultimate Goal, which all of us, are seeking. Bless us, Lord. We are Thine.
+ 
+May Thy love shine forever, on the altar of my devotion, and may I be able to awaken Thy love in all hearts. 
+
+Aum. Shanti. Shanti. Amen.
+{{< /callout >}}
+
 
 Well, God bless you, my dears. God bless you. I wish it were possible to take the hand of every one of you. But in my heart and in my mind I clasp each one of you as friends. I was born with one wish. And I told that to Master many years ago. “Master, I haven’t any desires. If there’s one, it’s real friends.” Look. Look, nothing more to want. God bless you all. And you have all of mine. God bless you, God bless. Be happy, be cheerful. Jai Guru, Jai Guru to all of you. Jai Guru! Jai Guru!
 
 ## Quick Recap
 
-{{< pdf "DayamataTalk1.pdf" >}}
+{{< pdf "DayamaTalk1.pdf" >}}
