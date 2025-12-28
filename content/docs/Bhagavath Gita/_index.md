@@ -1,8 +1,8 @@
 ---
-title: Bhagavath Gita
+title: Dayamata Talks
 type: docs
-prev: docs/Talk1
-next: docs/folder/Talk2
+prev: docs/DayamataTalk1
+next: docs/Dayamata Talks/DayamataTalk2
 sidebar:
   open: true
 ---
@@ -10,6 +10,6 @@ sidebar:
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="Talk2" title="Winning the Battle of Life  Part I" icon="user" >}}
+  {{< card link="Dayamata Talks" title="Dayamata Talks" icon="book-open" >}}
+  {{< card link="DayamataTalk2" title="Winning the Battle of Life  Part I" icon="user" >}}
 {{< /cards >}}
